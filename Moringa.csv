@@ -1,0 +1,124 @@
+Compounds,Smiles
+Palmitic,CCCCCCCCCCCCCCCC(=O)O
+Palmitoleic ,CCCCCCC=CCCCCCCCC(=O)O
+Steric *,CCCCCCCCCCCCCCCCCC(=O)O
+Oleic ,CCCCCCCCC=CCCCCCCCC(=O)O
+Linoleic ,CCCCCC=CCC=CCCCCCCCC(=O)O
+Linolenic ,CCC=CCC=CCC=CCCCCCCCC(=O)O
+Arachidic ,CCCCCCCCCCCCCCCCCCCC(=O)O
+Gadoleic  *,CCCCCCCCCCC=CCCCCCCCC(=O)O
+Behenic  *,CCCCCCCCCCCCCCCCCCCCCC(=O)O
+Lignoceric *,CCCCCCCCCCCCCCCCCCCCCCCC(=O)O
+Gallic acid,C1=C(C=C(C(=C1O)O)O)C(=O)O
+Caffeic acid,C1=CC(=C(C=C1C=CC(=O)O)O)O
+Vanillic acid,COC1=C(C=CC(=C1)C(=O)O)O
+Hydroxycinnamic acids,C1=CC(=CC=C1C=CC(=O)O)O
+Caffeoylquinic acid isomer 1,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
+Caffeoylquinic acid isomer 2,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
+Coumaroylquinic acid isomer 1,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC=C(C=C2)O)O)O
+Coumaroylquinic acid isomer 2,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC=C(C=C2)O)O)O
+4-Caffeoylquinic acid,C1C(C(C(CC1(C(=O)O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O
+Coumaroylquinic acid isomer 3,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC=C(C=C2)O)O)O
+4-p-Coumaroylquinic acid,C1C(C(C(CC1(C(=O)O)O)O)OC(=O)C=CC2=CC=C(C=C2)O)O
+Feruloylquinic acid isomer 2,COC1=C(C=CC(=C1)C=CC(=O)OC2C(CC(CC2O)(C(=O)O)O)O)O
+Feruloylquinic acid isomer 1,COC1=C(C=CC(=C1)C=CC(=O)OC2CC(CC(C2O)O)(C(=O)O)O)O
+"2,3-Dihydroxybenzoic acid",C1=CC(=C(C(=C1)O)O)C(=O)O
+Hydroxybenzoic acids,C1=CC(=CC(=C1)O)C(=O)O
+Ellagic acid*,C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O
+Ferulic acid*,COC1=C(C=CC(=C1)C=CC(=O)O)O
+Apigenin*,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O
+Naringenin *,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3=CC(=C4C(=O)CC(OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O
+Stigmasterol *,CCC(C=CC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C
+Campesterol *,CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C
+Campestanol *,CC(C)C(C)CCC(C)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C
+Cholesterol*,CC(C)CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C
+"? ?5,23 Stigmastadienol*",CC(CCC(=C(C)C)CCO)C1CCC2C1(CCC3C2CC=C4C3(CCCC4)C)C
+Clerosterol*,CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(=C)C
+?-Sitosterol*,CCC(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C
+Sitostanol *,CCC(CCC(C)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)O)C)C)C(C)C
+? 5-Avenasterol *,CC=C(CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C)C(C)C
+? 7-Avenasterol *,CC=C(CCC(C)C1CCC2C1(CCC3C2=CCC4C3(CCC(C4)O)C)C)C(C)C
+24-Methylene-cholesterol *,CC(C)C(=C)CCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C
+?-Tocopherol,CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C
+?-Tocopherol,CC1=C(C=C2CCC(OC2=C1C)(C)CCCC(C)CCCC(C)CCCC(C)C)O
+?-Tocopherol,CC1=CC(=CC2=C1OC(CC2)(C)CCCC(C)CCCC(C)CCCC(C)C)O
+?-terpineol,CC1=CCC(CC1)C(C)(C)O
+Nerolidol,C(=CCCC(=CCCC(C)(C=C)O)C)C
+Chlorogenic acid,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
+Rutin,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
+Isoquercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
+Quercitrin,CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
+Vanillin,COC1=C(C=CC(=C1)C=O)O
+Baicalin,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O
+Quercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O
+Kaempferol glycosides,COC1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)O
+Kaempferide,COC1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O
+Quercetin glycosides,C1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
+Kaempferol diglycosides,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)CO)O)O)O)O)OC5C(C(C(C(O5)CO)O)O)O)O
+Isorhamnetin glycosides,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O
+Multiflorin B,"
+CC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC=C(C=C4)O)O)O)OC5C(C(C(C(O5)CO)O)O)O"
+Quercetin diglycoside,"
+C1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O"
+Quercetin 3-O-glucoside,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)CO)O)O)O)O)O
+Quercetin malonylglucoside isomer 1,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)OC4C(C(C(C(O4)COC(=O)CC(=O)O)O)O)O)O)O
+Quercetin–hydroxy–methylglutaroyl glycoside,CC(CC(=O)O)(CC(=O)OCC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O)O
+Quercetin triacetylgalactoside,CC(=O)OC1C(OC(C(C1OC(=O)C)OC(=O)C)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)CO
+Quercetin–acetyl–glycoside isomer 1,CC(=O)OCC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
+Quercetin–acetyl–glycoside isomer 2,CC(=O)OCC1C(C(C(C(O1)OC2=CC(=C3C(=C2)OC(=C(C3=O)O)C4=CC(=C(C=C4)O)O)O)O)O)O
+Quercetin triacetylgalactoside,CC(=O)OCC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)OC(=O)C)O
+Quercetin–acetyl–glycoside isomer 3,CC(=O)OCC1C(C(C(C(O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O
+Apiginin glycosides isomer 1,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4C(C(C(C(O4)CO)O)O)O)O
+Kaempferol,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O
+Ascorbic Acid,C(C(C1C(=C(C(=O)O1)O)O)O)O
+phytol,CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C
+Tryptophan,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N
+Leu/Ilec*,CCC(C)C(C(=O)NC(CC(C)C)C(=O)O)N
+Phenilalanine,C1=CC=C(C=C1)CC(C(=O)O)N
+L-tryptophan,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N
+Adenosine,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N
+Niacinamide,C1=CC(=CN=C1)C(=O)N
+Serotonin,C1=CC2=C(C=C1O)C(=CN2)CCN
+Chlorogenic Acid,C1C(C(C(CC1(C(=O)O)O)OC(=O)C=CC2=CC(=C(C=C2)O)O)O)O
+Niazimin,CCOC(=O)NCC1=CC=C(C=C1)OC2C(C(C(C(O2)C)OC(=O)C)O)O
+indole-3-acetic acid,C1=CC=C2C(=C1)C(=CN2)CC(=O)O
+Vaccenic acid,CCCCCCC=CCCCCCCCCCC(=O)O
+"2,2-Diphenyl-1,3-benzodioxole",C1=CC=C(C=C1)C2(OC3=CC=CC=C3O2)C4=CC=CC=C4
+"Cyclohexanone, 2,2-diphenyl-",C1CCC(C(=O)C1)(C2=CC=CC=C2)C3=CC=CC=C3
+Palmitoyl chloride,CCCCCCCCCCCCCCCC(=O)Cl
+3-Chloro-N-isochroman-1-ylmethyl-propionamide,C1COC(C2=CC=CC=C21)CNC(=O)CCCl
+Isomollupentin 7-O-glucoside-2''-O-xyloside,C1C(C(C(C(O1)C2=C(C=C3C(=C2O)C(=O)C=C(O3)C4=CC=C(C=C4)O)OC5C(C(C(C(O5)CO)O)O)O)OC6C(C(C(CO6)O)O)O)O)O
+Benzylglucosinolate,C1=CC=C(C=C1)CC(=NOS(=O)(=O)[O-])SC2C(C(C(C(O2)CO)O)O)O
+Hydroxybenzylglucosinolate,C1=CC(=CC=C1CC(=NOS(=O)(=O)O)SC2C(C(C(C(O2)CO)O)O)O)O
+Niazirin,CC1C(C(C(C(O1)OC2=CC=C(C=C2)CC#N)O)O)O
+"N,?-L-rhamnopyranosyl vincosamide",CC1C(C(C(C(O1)ON2C3=CC=CC=C3C4=C2C5CC6C(C(OC=C6C(=O)N5CC4)OC7C(C(C(C(O7)CO)O)O)O)C=C)O)O)O
+Pyrrolemarumine 4''-O-?-Lrhamnopyranoside,CC1C(C(C(C(O1)OC2=CC=C(C=C2)CN3C(=CC=C3C=O)CO)O)O)O
+Marumoside A,CC1C(C(C(C(O1)OC2=CC=C(C=C2)CC(=O)N)O)O)O
+Marumoside B*,CC1C(C(C(C(O1)OC2=CC=C(C=C2)CC(=O)N)O)OC3C(C(C(C(O3)CO)O)O)O)O
+4-(?-L-rhamnopyranosyloxy)-benzylcarbamate,CCOC(=O)NCC1=CC=C(C=C1)OC2C(C(C(C(O2)C)OC(=O)C)OC(=O)C)OC(=O)C
+Moringine (Benzyl amine),C1=CC=C(C=C1)CN
+Moringinine,CC1=C(C(=CC=C1)C)C(=O)OC2C(C(C(C(O2)CO)O)O)O
+Gluconic acid,C(C(C(C(C(C(=O)O)O)O)O)O)O
+Quinic acid,C1C(C(C(CC1(C(=O)O)O)O)O)O
+Malic acid,C(C(C(=O)O)O)C(=O)O
+Citric acid,C(C(=O)O)C(CC(=O)O)(C(=O)O)O
+Azelaic acid,C(CCCC(=O)O)CCCC(=O)O
+Sebacic acid,C(CCCCC(=O)O)CCCC(=O)O
+Trihydroxyoctadecadienoic acid isomer 1,CCC=CCC(C(C=CC(CCCCCCCC(=O)O)O)O)O
+Trihydroxyoctadecadienoic acid isomer 2,CCCCCC=CCC(C(C(=O)CCCCCCC(=O)O)O)O
+Trihydroxyoctadecadienoic acid isomer 3,CCC=CCC(C(C=CC(CCCCCCCC(=O)O)O)O)O
+Trihydroxyoctadecadienoic acid isomer 4,CCC=CCC=CC(C(C(CCCCCCCC(=O)O)O)O)O
+Trihydroxyoctadecadienoic acid isomer 5,CCC=CCC(C(C=CC(CCCCCCCC(=O)O)O)O)O
+"Isolariciresinol glycoside/
+lariceresinolglycoside isomer 1",COC1=C(C=CC(=C1)CC2COC(C2CO)C3=CC(=C(C=C3)O)OC)OC4C(C(C(C(O4)CO)O)O)O
+"Pinoresinol/epipinoresinol*
+glycoside",COC1=C(C=CC(=C1)C2C3COC(C3CO2)C4=CC(=C(C=C4)O)OC)O
+"Isolariciresinol glycoside/
+lariceresinolglycoside isomer 2",COC1=C(C=C2C(C(C(CC2=C1)CO)COC3C(C(C(C(O3)CO)O)O)O)C4=CC(=C(C=C4)O)OC)O
+Secoisolariciresinol glycoside,COC1=C(C=CC(=C1)CC(CO)C(CC2=CC(=C(C=C2)O)OC)COC3C(C(C(C(O3)CO)O)O)O)O
+(E)-1-(1-Ethoxyethoxy)hex-3-ene,CCC=CCCOC(C)OCC
+Phenacylidene diacetate,CC(=O)OC(C(=O)C1=CC=CC=C1)OC(=O)C
+Canthaxanthin,CC1=C(C(CCC1=O)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2=C(C(=O)CCC2(C)C)C)C)C
+Alpha-Tocopherol,CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C
+etienic acid,CC12CCC3C(C1CCC2C(=O)O)CCC4=CC(=O)CCC34C
+cholesteryl methyl carbonate,CC(C)CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)OC(=O)OC)C)C
